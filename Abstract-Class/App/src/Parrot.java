@@ -10,6 +10,7 @@ public class Parrot extends Bird {
 
     @Override
     public void fly() {
+        super.fly();
         System.out.print("\nI'm fly not bad !");
     }
 }

@@ -1,4 +1,4 @@
-public abstract class Bird extends Animal {
+public class Bird extends Animal implements ICanFly {
 
     public Bird() {
         this(null);
@@ -8,8 +8,10 @@ public abstract class Bird extends Animal {
         super(name);
     }
 
-    public abstract void fly();
-
+    @Override
+    public void fly() {
+        System.out.printf("\n%s is flapping its wings !", this.getClass().getSimpleName());
+    }
 
     @Override
     public void eat() {
@@ -19,6 +21,5 @@ public abstract class Bird extends Animal {
     @Override
     public void sleep() {
         System.out.printf("\n%s %s is sleeping !", this.getClass().getSimpleName(), super.getName());
-
     }
 }
