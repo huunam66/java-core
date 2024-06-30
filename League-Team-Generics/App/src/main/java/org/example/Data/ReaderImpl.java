@@ -55,7 +55,7 @@ public abstract class ReaderImpl implements Reader {
 
     private void importSports(JSONObject jsonObject) {
         sports = new ArrayList<>();
-        JSONArray data = (JSONArray) jsonObject.get("data");
+        JSONArray data = (JSONArray) jsonObject.get("sports");
         for (Object sport : data) {
             String name = ((JSONObject) sport).get("name").toString();
 //            System.out.println(name);
