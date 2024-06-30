@@ -1,0 +1,954 @@
+{
+  "data": [
+    {
+      "name": "Football (Soccer)",
+      "leagues": [
+        {
+          "name": "UEFA Champions League",
+          "teams": [
+            {
+              "name": "Real Madrid",
+              "players": [
+                {
+                  "name": "Thibaut Courtois",
+                  "position": "Goalkeeper",
+                  "number": "#1"
+                },
+                {
+                  "name": "Dani Carvajal",
+                  "position": "Defender",
+                  "number": "#2"
+                },
+                {
+                  "name": "Sergio Ramos",
+                  "position": "Defender",
+                  "number": "#4"
+                },
+                {
+                  "name": "Raphaël Varane",
+                  "position": "Defender",
+                  "number": "#5"
+                },
+                {
+                  "name": "Marcelo",
+                  "position": "Defender",
+                  "number": "#12"
+                },
+                {
+                  "name": "Luka Modrić",
+                  "position": "Midfielder",
+                  "number": "#10"
+                },
+                {
+                  "name": "Toni Kroos",
+                  "position": "Midfielder",
+                  "number": "#8"
+                },
+                {
+                  "name": "Casemiro",
+                  "position": "Midfielder",
+                  "number": "#14"
+                },
+                {
+                  "name": "Karim Benzema",
+                  "position": "Forward",
+                  "number": "#9"
+                },
+                {
+                  "name": "Eden Hazard",
+                  "position": "Forward",
+                  "number": "#7"
+                },
+                {
+                  "name": "Vinícius Júnior",
+                  "position": "Forward",
+                  "number": "#20"
+                }
+              ]
+            },
+            {
+              "name": "FC Barcelona",
+              "players": [
+                {
+                  "name": "Marc-André ter Stegen",
+                  "position": "Goalkeeper",
+                  "number": "#1"
+                },
+                {
+                  "name": "Gerard Piqué",
+                  "position": "Defender",
+                  "number": "#3"
+                },
+                {
+                  "name": "Jordi Alba",
+                  "position": "Defender",
+                  "number": "#18"
+                },
+                {
+                  "name": "Clément Lenglet",
+                  "position": "Defender",
+                  "number": "#15"
+                },
+                {
+                  "name": "Sergi Roberto",
+                  "position": "Defender",
+                  "number": "#20"
+                },
+                {
+                  "name": "Sergio Busquets",
+                  "position": "Midfielder",
+                  "number": "#5"
+                },
+                {
+                  "name": "Frenkie de Jong",
+                  "position": "Midfielder",
+                  "number": "#21"
+                },
+                {
+                  "name": "Pedri",
+                  "position": "Midfielder",
+                  "number": "#16"
+                },
+                {
+                  "name": "Lionel Messi",
+                  "position": "Forward",
+                  "number": "#10"
+                },
+                {
+                  "name": "Antoine Griezmann",
+                  "position": "Forward",
+                  "number": "#17"
+                },
+                {
+                  "name": "Ousmane Dembélé",
+                  "position": "Forward",
+                  "number": "#11"
+                }
+              ]
+            },
+            {
+              "name": "Bayern Munich",
+              "players": [
+                {
+                  "name": "Manuel Neuer",
+                  "position": "Goalkeeper",
+                  "number": "#1"
+                },
+                {
+                  "name": "Joshua Kimmich",
+                  "position": "Defender/Midfielder",
+                  "number": "#6"
+                },
+                {
+                  "name": "David Alaba",
+                  "position": "Defender",
+                  "number": "#27"
+                },
+                {
+                  "name": "Alphonso Davies",
+                  "position": "Defender",
+                  "number": "#19"
+                },
+                {
+                  "name": "Benjamin Pavard",
+                  "position": "Defender",
+                  "number": "#5"
+                },
+                {
+                  "name": "Leon Goretzka",
+                  "position": "Midfielder",
+                  "number": "#18"
+                },
+                {
+                  "name": "Thomas Müller",
+                  "position": "Midfielder/Forward",
+                  "number": "#25"
+                },
+                {
+                  "name": "Serge Gnabry",
+                  "position": "Forward",
+                  "number": "#7"
+                },
+                {
+                  "name": "Robert Lewandowski",
+                  "position": "Forward",
+                  "number": "#9"
+                },
+                {
+                  "name": "Kingsley Coman",
+                  "position": "Forward",
+                  "number": "#29"
+                },
+                {
+                  "name": "Leroy Sané",
+                  "position": "Forward",
+                  "number": "#10"
+                }
+              ]
+            },
+            {
+              "name": "Paris Saint-Germain (PSG)",
+              "players": [
+                {
+                  "name": "Keylor Navas",
+                  "position": "Goalkeeper",
+                  "number": "#1"
+                },
+                {
+                  "name": "Marquinhos",
+                  "position": "Defender",
+                  "number": "#5"
+                },
+                {
+                  "name": "Presnel Kimpembe",
+                  "position": "Defender",
+                  "number": "#3"
+                },
+                {
+                  "name": "Juan Bernat",
+                  "position": "Defender",
+                  "number": "#14"
+                },
+                {
+                  "name": "Alessandro Florenzi",
+                  "position": "Defender",
+                  "number": "#24"
+                },
+                {
+                  "name": "Marco Verratti",
+                  "position": "Midfielder",
+                  "number": "#6"
+                },
+                {
+                  "name": "Leandro Paredes",
+                  "position": "Midfielder",
+                  "number": "#8"
+                },
+                {
+                  "name": "Neymar",
+                  "position": "Forward",
+                  "number": "#10"
+                },
+                {
+                  "name": "Kylian Mbappé",
+                  "position": "Forward",
+                  "number": "#7"
+                },
+                {
+                  "name": "Ángel Di María",
+                  "position": "Forward",
+                  "number": "#11"
+                },
+                {
+                  "name": "Mauro Icardi",
+                  "position": "Forward",
+                  "number": "#9"
+                }
+              ]
+            },
+            {
+              "name": "Manchester City",
+              "players": [
+                {
+                  "name": "Ederson",
+                  "position": "Goalkeeper",
+                  "number": "#31"
+                },
+                {
+                  "name": "Kyle Walker",
+                  "position": "Defender",
+                  "number": "#2"
+                },
+                {
+                  "name": "Rúben Dias",
+                  "position": "Defender",
+                  "number": "#3"
+                },
+                {
+                  "name": "Aymeric Laporte",
+                  "position": "Defender",
+                  "number": "#14"
+                },
+                {
+                  "name": "João Cancelo",
+                  "position": "Defender",
+                  "number": "#27"
+                },
+                {
+                  "name": "Kevin De Bruyne",
+                  "position": "Midfielder",
+                  "number": "#17"
+                },
+                {
+                  "name": "Bernardo Silva",
+                  "position": "Midfielder",
+                  "number": "#20"
+                },
+                {
+                  "name": "Ilkay Gündogan",
+                  "position": "Midfielder",
+                  "number": "#8"
+                },
+                {
+                  "name": "Raheem Sterling",
+                  "position": "Forward",
+                  "number": "#7"
+                },
+                {
+                  "name": "Riyad Mahrez",
+                  "position": "Forward",
+                  "number": "#26"
+                },
+                {
+                  "name": "Phil Foden",
+                  "position": "Forward",
+                  "number": "#47"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Basketball",
+      "leagues": [
+        {
+          "name": "NBA (National Basketball Association)",
+          "teams": [
+            {
+              "name": "Los Angeles Lakers",
+              "players": [
+                {
+                  "name": "LeBron James",
+                  "position": "Forward",
+                  "number": "#6"
+                },
+                {
+                  "name": "Anthony Davis",
+                  "position": "Forward/Center",
+                  "number": "#3"
+                },
+                {
+                  "name": "Russell Westbrook",
+                  "position": "Guard",
+                  "number": "#0"
+                },
+                {
+                  "name": "Carmelo Anthony",
+                  "position": "Forward",
+                  "number": "#7"
+                },
+                {
+                  "name": "Dwight Howard",
+                  "position": "Center",
+                  "number": "#39"
+                }
+              ]
+            },
+            {
+              "name": "Golden State Warriors",
+              "players": [
+                {
+                  "name": "Stephen Curry",
+                  "position": "Guard",
+                  "number": "#30"
+                },
+                {
+                  "name": "Klay Thompson",
+                  "position": "Guard",
+                  "number": "#11"
+                },
+                {
+                  "name": "Draymond Green",
+                  "position": "Forward",
+                  "number": "#23"
+                },
+                {
+                  "name": "Andrew Wiggins",
+                  "position": "Forward",
+                  "number": "#22"
+                },
+                {
+                  "name": "James Wiseman",
+                  "position": "Center",
+                  "number": "#33"
+                }
+              ]
+            },
+            {
+              "name": "Brooklyn Nets",
+              "players": [
+                {
+                  "name": "Kevin Durant",
+                  "position": "Forward",
+                  "number": "#7"
+                },
+                {
+                  "name": "Kyrie Irving",
+                  "position": "Guard",
+                  "number": "#11"
+                },
+                {
+                  "name": "James Harden",
+                  "position": "Guard",
+                  "number": "#13"
+                },
+                {
+                  "name": "Blake Griffin",
+                  "position": "Forward",
+                  "number": "#2"
+                },
+                {
+                  "name": "Joe Harris",
+                  "position": "Guard/Forward",
+                  "number": "#12"
+                }
+              ]
+            },
+            {
+              "name": "Milwaukee Bucks",
+              "players": [
+                {
+                  "name": "Giannis Antetokounmpo",
+                  "position": "Forward",
+                  "number": "#34"
+                },
+                {
+                  "name": "Jrue Holiday",
+                  "position": "Guard",
+                  "number": "#21"
+                },
+                {
+                  "name": "Khris Middleton",
+                  "position": "Forward",
+                  "number": "#22"
+                },
+                {
+                  "name": "Brook Lopez",
+                  "position": "Center",
+                  "number": "#11"
+                },
+                {
+                  "name": "Donte DiVincenzo",
+                  "position": "Guard",
+                  "number": "#0"
+                }
+              ]
+            },
+            {
+              "name": "Philadelphia 76ers",
+              "players": [
+                {
+                  "name": "Joel Embiid",
+                  "position": "Center",
+                  "number": "#21"
+                },
+                {
+                  "name": "Ben Simmons",
+                  "position": "Guard/Forward",
+                  "number": "#25"
+                },
+                {
+                  "name": "Tobias Harris",
+                  "position": "Forward",
+                  "number": "#12"
+                },
+                {
+                  "name": "Seth Curry",
+                  "position": "Guard",
+                  "number": "#31"
+                },
+                {
+                  "name": "Danny Green",
+                  "position": "Guard/Forward",
+                  "number": "#14"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baseball",
+      "leagues": [
+        {
+          "name": "MLB (Major League Baseball)",
+          "teams": [
+            {
+              "name": "New York Yankees",
+              "players": [
+                {
+                  "name": "Gerrit Cole",
+                  "position": "Pitcher",
+                  "number": "#45"
+                },
+                {
+                  "name": "Aaron Judge",
+                  "position": "Outfielder",
+                  "number": "#99"
+                },
+                {
+                  "name": "Gleyber Torres",
+                  "position": "Shortstop",
+                  "number": "#25"
+                },
+                {
+                  "name": "DJ LeMahieu",
+                  "position": "Second Baseman",
+                  "number": "#26"
+                },
+                {
+                  "name": "Gio Urshela",
+                  "position": "Third Baseman",
+                  "number": "#29"
+                }
+              ]
+            },
+            {
+              "name": "Los Angeles Dodgers",
+              "players": [
+                {
+                  "name": "Clayton Kershaw",
+                  "position": "Pitcher",
+                  "number": "#22"
+                },
+                {
+                  "name": "Mookie Betts",
+                  "position": "Outfielder",
+                  "number": "#50"
+                },
+                {
+                  "name": "Corey Seager",
+                  "position": "Shortstop",
+                  "number": "#5"
+                },
+                {
+                  "name": "Justin Turner",
+                  "position": "Third Baseman",
+                  "number": "#10"
+                },
+                {
+                  "name": "Max Muncy",
+                  "position": "First Baseman",
+                  "number": "#13"
+                }
+              ]
+            },
+            {
+              "name": "Atlanta Braves",
+              "players": [
+                {
+                  "name": "Ronald Acuña Jr.",
+                  "position": "Outfielder",
+                  "number": "#13"
+                },
+                {
+                  "name": "Freddie Freeman",
+                  "position": "First Baseman",
+                  "number": "#5"
+                },
+                {
+                  "name": "Ozzie Albies",
+                  "position": "Second Baseman",
+                  "number": "#1"
+                },
+                {
+                  "name": "Dansby Swanson",
+                  "position": "Shortstop",
+                  "number": "#7"
+                },
+                {
+                  "name": "Travis d'Arnaud",
+                  "position": "Catcher",
+                  "number": "#16"
+                }
+              ]
+            },
+            {
+              "name": "Houston Astros",
+              "players": [
+                {
+                  "name": "Justin Verlander",
+                  "position": "Pitcher",
+                  "number": "#35"
+                },
+                {
+                  "name": "Jose Altuve",
+                  "position": "Second Baseman",
+                  "number": "#27"
+                },
+                {
+                  "name": "Carlos Correa",
+                  "position": "Shortstop",
+                  "number": "#1"
+                },
+                {
+                  "name": "Alex Bregman",
+                  "position": "Third Baseman",
+                  "number": "#2"
+                },
+                {
+                  "name": "Yordan Alvarez",
+                  "position": "Outfielder",
+                  "number": "#44"
+                }
+              ]
+            },
+            {
+              "name": "Chicago White Sox",
+              "players": [
+                {
+                  "name": "Lucas Giolito",
+                  "position": "Pitcher",
+                  "number": "#27"
+                },
+                {
+                  "name": "Tim Anderson",
+                  "position": "Shortstop",
+                  "number": "#7"
+                },
+                {
+                  "name": "Yoán Moncada",
+                  "position": "Third Baseman",
+                  "number": "#10"
+                },
+                {
+                  "name": "José Abreu",
+                  "position": "First Baseman",
+                  "number": "#79"
+                },
+                {
+                  "name": "Luis Robert",
+                  "position": "Outfielder",
+                  "number": "#88"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "American Football",
+      "leagues": [
+        {
+          "name": "NFL (National Football League)",
+          "teams": [
+            {
+              "name": "Kansas City Chiefs",
+              "players": [
+                {
+                  "name": "Patrick Mahomes",
+                  "position": "Quarterback",
+                  "number": "#15"
+                },
+                {
+                  "name": "Travis Kelce",
+                  "position": "Tight End",
+                  "number": "#87"
+                },
+                {
+                  "name": "Tyreek Hill",
+                  "position": "Wide Receiver",
+                  "number": "#10"
+                },
+                {
+                  "name": "Chris Jones",
+                  "position": "Defensive Tackle",
+                  "number": "#95"
+                },
+                {
+                  "name": "Tyrann Mathieu",
+                  "position": "Safety",
+                  "number": "#32"
+                }
+              ]
+            },
+            {
+              "name": "Tampa Bay Buccaneers",
+              "players": [
+                {
+                  "name": "Tom Brady",
+                  "position": "Quarterback",
+                  "number": "#12"
+                },
+                {
+                  "name": "Rob Gronkowski",
+                  "position": "Tight End",
+                  "number": "#87"
+                },
+                {
+                  "name": "Mike Evans",
+                  "position": "Wide Receiver",
+                  "number": "#13"
+                },
+                {
+                  "name": "Devin White",
+                  "position": "Linebacker",
+                  "number": "#45"
+                },
+                {
+                  "name": "Lavonte David",
+                  "position": "Linebacker",
+                  "number": "#54"
+                }
+              ]
+            },
+            {
+              "name": "Green Bay Packers",
+              "players": [
+                {
+                  "name": "Aaron Rodgers",
+                  "position": "Quarterback",
+                  "number": "#12"
+                },
+                {
+                  "name": "Davante Adams",
+                  "position": "Wide Receiver",
+                  "number": "#17"
+                },
+                {
+                  "name": "Aaron Jones",
+                  "position": "Running Back",
+                  "number": "#33"
+                },
+                {
+                  "name": "Jaire Alexander",
+                  "position": "Cornerback",
+                  "number": "#23"
+                },
+                {
+                  "name": "Kenny Clark",
+                  "position": "Defensive Tackle",
+                  "number": "#97"
+                }
+              ]
+            },
+            {
+              "name": "Buffalo Bills",
+              "players": [
+                {
+                  "name": "Josh Allen",
+                  "position": "Quarterback",
+                  "number": "#17"
+                },
+                {
+                  "name": "Stefon Diggs",
+                  "position": "Wide Receiver",
+                  "number": "#14"
+                },
+                {
+                  "name": "Tre'Davious White",
+                  "position": "Cornerback",
+                  "number": "#27"
+                },
+                {
+                  "name": "Tremaine Edmunds",
+                  "position": "Linebacker",
+                  "number": "#49"
+                },
+                {
+                  "name": "Jerry Hughes",
+                  "position": "Defensive End",
+                  "number": "#55"
+                }
+              ]
+            },
+            {
+              "name": "Baltimore Ravens",
+              "players": [
+                {
+                  "name": "Lamar Jackson",
+                  "position": "Quarterback",
+                  "number": "#8"
+                },
+                {
+                  "name": "Mark Andrews",
+                  "position": "Tight End",
+                  "number": "#89"
+                },
+                {
+                  "name": "Marlon Humphrey",
+                  "position": "Cornerback",
+                  "number": "#44"
+                },
+                {
+                  "name": "Calais Campbell",
+                  "position": "Defensive End",
+                  "number": "#93"
+                },
+                {
+                  "name": "Marcus Peters",
+                  "position": "Cornerback",
+                  "number": "#24"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cricket",
+      "leagues": [
+        {
+          "name": "ICC (International Cricket Council)",
+          "teams": [
+            {
+              "name": "India",
+              "players": [
+                {
+                  "name": "Virat Kohli",
+                  "position": "Batsman",
+                  "number": "#18"
+                },
+                {
+                  "name": "Rohit Sharma",
+                  "position": "Batsman",
+                  "number": "#45"
+                },
+                {
+                  "name": "Jasprit Bumrah",
+                  "position": "Bowler",
+                  "number": "#33"
+                },
+                {
+                  "name": "Ravindra Jadeja",
+                  "position": "All-rounder",
+                  "number": "#8"
+                },
+                {
+                  "name": "MS Dhoni",
+                  "position": "Wicketkeeper/Batsman",
+                  "number": "#7"
+                }
+              ]
+            },
+            {
+              "name": "Australia",
+              "players": [
+                {
+                  "name": "David Warner",
+                  "position": "Batsman",
+                  "number": "#31"
+                },
+                {
+                  "name": "Pat Cummins",
+                  "position": "Bowler",
+                  "number": "#22"
+                },
+                {
+                  "name": "Steve Smith",
+                  "position": "Batsman",
+                  "number": "#49"
+                },
+                {
+                  "name": "Aaron Finch",
+                  "position": "Batsman",
+                  "number": "#5"
+                },
+                {
+                  "name": "Alex Carey",
+                  "position": "Wicketkeeper/Batsman",
+                  "number": "#11"
+                }
+              ]
+            },
+            {
+              "name": "England",
+              "players": [
+                {
+                  "name": "Joe Root",
+                  "position": "Batsman",
+                  "number": "#66"
+                },
+                {
+                  "name": "Ben Stokes",
+                  "position": "All-rounder",
+                  "number": "#55"
+                },
+                {
+                  "name": "Jofra Archer",
+                  "position": "Bowler",
+                  "number": "#24"
+                },
+                {
+                  "name": "Jos Buttler",
+                  "position": "Wicketkeeper/Batsman",
+                  "number": "#10"
+                },
+                {
+                  "name": "Jonny Bairstow",
+                  "position": "Wicketkeeper/Batsman",
+                  "number": "#22"
+                }
+              ]
+            },
+            {
+              "name": "South Africa",
+              "players": [
+                {
+                  "name": "Kagiso Rabada",
+                  "position": "Bowler",
+                  "number": "#25"
+                },
+                {
+                  "name": "Quinton de Kock",
+                  "position": "Wicketkeeper/Batsman",
+                  "number": "#12"
+                },
+                {
+                  "name": "Faf du Plessis",
+                  "position": "Batsman",
+                  "number": "#18"
+                },
+                {
+                  "name": "Lungi Ngidi",
+                  "position": "Bowler",
+                  "number": "#66"
+                },
+                {
+                  "name": "AB de Villiers",
+                  "position": "Batsman",
+                  "number": "#17"
+                }
+              ]
+            },
+            {
+              "name": "Pakistan",
+              "players": [
+                {
+                  "name": "Babar Azam",
+                  "position": "Batsman",
+                  "number": "#1"
+                },
+                {
+                  "name": "Shaheen Afridi",
+                  "position": "Bowler",
+                  "number": "#16"
+                },
+                {
+                  "name": "Mohammad Rizwan",
+                  "position": "Wicketkeeper/Batsman",
+                  "number": "#20"
+                },
+                {
+                  "name": "Shadab Khan",
+                  "position": "All-rounder",
+                  "number": "#7"
+                },
+                {
+                  "name": "Fakhar Zaman",
+                  "position": "Batsman",
+                  "number": "#9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
