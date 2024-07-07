@@ -39,10 +39,10 @@ public class StockList {
             StockItem stockItem = item.getValue();
             double total = stockItem.getQuantity() * stockItem.getPrice();
             s += (stockItem + String.format("There have quantity is %d, total is %.2f$\n", stockItem.getQuantity(), total));
-            keys += item.getKey() + "\n";
+            keys += (item.getKey() + "\n");
             totally += total;
         }
-        return s + "\nTotal: " + totally + "$\n" + keys;
+        return s + "\nTotal: " + totally + "$\n";
     }
 
     public Map<String, StockItem> getStockList() {

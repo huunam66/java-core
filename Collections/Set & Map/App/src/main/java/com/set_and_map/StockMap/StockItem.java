@@ -1,6 +1,6 @@
 package com.set_and_map.StockMap;
 
-public class StockItem {
+public class StockItem implements Comparable<StockItem> {
     private String name;
     private double price;
 
@@ -12,6 +12,10 @@ public class StockItem {
         this.quantity = quantity;
     }
 
+    public int adjustQuantity(int quantity) {
+        this.quantity += quantity;
+        return this.quantity;
+    }
 
     @Override
     public int hashCode() {
@@ -26,6 +30,15 @@ public class StockItem {
 
         String name = ((StockItem) obj).getName();
         return this.name.equalsIgnoreCase(name);
+    }
+
+    @Override
+    public int compareTo(StockItem o) {
+        if (this == o) return 0;
+
+        if (o == null || (this.getClass() != o.getClass())) return -1;
+
+        return this.name.compareTo(o.getName());
     }
 
     @Override
